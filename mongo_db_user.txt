@@ -1,0 +1,8 @@
+dmaxflamingo_db_user
+
+vDH7pEJhBbTncqYX
+
+112.134.192.204
+
+
+mongodb+srv://dmaxflamingo_db_user:vDH7pEJhBbTncqYX@cluster0.6orjcdf.mongodb.net/?appName=Cluster0

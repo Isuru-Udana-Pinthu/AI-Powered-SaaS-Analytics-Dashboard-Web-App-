@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <defs>
+    <linearGradient id="apex-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#4f46e5" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Rounded container background -->
+  <rect width="32" height="32" rx="9" fill="url(#apex-gradient)" />
+  
+  <!-- Sparkling 4-pointed star in the center -->
+  <path d="M16 6Q16 16 6 16Q16 16 16 26Q16 16 26 16Q16 16 16 6Z" fill="#ffffff" />
+  
+  <!-- Subtle secondary small sparkle in top right -->
+  <path d="M25 8Q25 11 22 11Q25 11 25 14Q25 11 28 11Q25 11 25 8Z" fill="#ffffff" opacity="0.8" />
+</svg>
